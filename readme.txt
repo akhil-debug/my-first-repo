@@ -1,5 +1,5 @@
 This is shit
 Bro will it work
-HAHAHA Conflict
+F this Conflict
 Its cloudy outside today
 
