@@ -1,5 +1,3 @@
-This is shit
-Bro will it work
-F this Conflict
-Its cloudy outside today
+Hello this is my first git push
+Git learning going great till now
 
