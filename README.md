@@ -14,5 +14,5 @@ I live in the state of Kerala, in India.
 1. Playing guitar
 2. Soccer
 3. Coding
-4. Photography
+
 
